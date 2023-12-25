@@ -1,0 +1,19 @@
+num1 = 5
+num2 = 3
+sum = num1 + num2
+print("The sum is:", sum)
+
+num3 = 10
+num4 = 7
+difference = num3 - num4
+print("The difference is:", difference)
+
+num5 = 4
+num6 = 6
+product = num5 * num6
+print("The product is:", product)
+
+num7 = 15
+num8 = 3
+quotient = num7 / num8
+print("The quotient is:", quotient)
