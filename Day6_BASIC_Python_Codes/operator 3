@@ -1,0 +1,29 @@
+#logical operators
+a,b=3,5
+print(a>5 and b<5)
+print(a<5 or b>2)
+a=False
+print(not(a))
+#bitwise operator
+a=5
+b=4
+print(a&b) #and
+print(a|b) #or
+print(a^b) #xor
+print(~a) #negation using 2's compilments
+print(a<<2) #leftshift
+print(a>>2) #rightshift
+
+#assignment
+a,b=26,23
+print(a & b)
+a,b=17,24
+print(a | b)
+a,b=17,24
+print(a ^ b)
+a=45
+print(~a)
+a=68
+print(a<<2)
+a=56
+print(a>>3)

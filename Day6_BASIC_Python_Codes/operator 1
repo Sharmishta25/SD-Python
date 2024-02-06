@@ -1,0 +1,19 @@
+#arithmetic operators
+#division
+print(5/2)
+print(4/2)
+#acurate division
+print(4//2)
+#modulus
+print(5%2)
+#multiplication
+print(4*3)
+#power
+print(2**3)
+#mix
+print(5+2*3-1+10/5)
+#calculate BMI
+height=6
+weight=78
+bmi=weight/(height*height)
+print("Your BMI is:" ,bmi)
