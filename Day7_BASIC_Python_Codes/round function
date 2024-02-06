@@ -1,0 +1,7 @@
+#round function
+#round(number,no. of digits)
+print(round(7.997,2))
+print(round(7.5))
+print(round(674,-1)) #closest multiple of 10
+print(round(674,-2)) #closest multiple of 100
+print(round(-8/3))

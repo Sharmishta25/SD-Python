@@ -1,0 +1,5 @@
+name="Sharmishta"
+age=20
+height=5.2
+print(f"My name is{name}.I am {age} years old.My height is {height}")
+print(f"My mother is {age*2} years old.")
