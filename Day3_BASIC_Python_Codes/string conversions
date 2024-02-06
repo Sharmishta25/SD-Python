@@ -1,0 +1,14 @@
+length=(len("Sharmishta"))
+print(len("12345"))
+print("Your name has" + str(length) + "characters")
+print(type(length))
+#length to string
+new_length=str(length)
+print(type(new_length))
+
+#conversion
+print("10"+ "10")
+print(int("10") +int("10"))
+print(3+ float("10.25"))
+name="123"
+print(10+ int(name))

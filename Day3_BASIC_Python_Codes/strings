@@ -1,0 +1,13 @@
+var_1=1234567895436544896767
+print(var_1+1)
+#add two numbers
+var_1=13.25
+var_2=25
+print(var_1+var_2)
+print(type(var_1))
+print(type(var_2))
+name="Sharmishta Dash"
+print(type(name))
+print((name[7]))
+#concatenation of strings
+print("Jenny\'s \n \"lectures\"")
