@@ -1,0 +1,28 @@
+#sort function
+roll_no=[-9,-89,23,67,56,78]
+roll_no.sort()
+print(roll_no)
+#reserve function
+roll_no.reverse()
+print(roll_no)
+#append function
+roll_no.append(45)
+print(roll_no)
+#insert function
+roll_no.insert(3,46)
+print(roll_no)
+#extend function
+roll_no.extend([2,8,7,6])
+print(roll_no)
+roll_no[3]=90
+print(roll_no)
+#remove function
+roll_no.remove(23)
+print(roll_no)
+#pop function
+roll_no.pop()
+print(roll_no.pop())
+print(roll_no)
+#clear function
+roll_no.clear()
+print(roll_no)

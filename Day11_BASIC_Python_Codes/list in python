@@ -1,0 +1,15 @@
+#list in python
+roll_no=[-9,-89,23,67,56,78]
+print(roll_no)
+names=["Sharmishta","Sanket","Debashree"]
+print(names)
+mix_list=[13,25,"Forever"]
+print(mix_list)
+print(roll_no[2])
+print(names[2])
+print(mix_list[2])
+class_standard=["10th","11th","12th"]
+print(class_standard)
+print(class_standard[2])
+print(names[-1])
+print(roll_no[1:2])
