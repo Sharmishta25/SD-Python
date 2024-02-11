@@ -1,0 +1,21 @@
+import random
+#randint function
+a=random.randint(1,7)
+print(a)
+#randrange function
+b=random.randrange(1,7)
+print(b)
+#random function
+a=random.random()
+print(a)
+#uniform function
+a=random.uniform(1,7)
+print(a)
+#choice function
+l=[23,-89,7,-67,22]
+a=random.choice(l)
+print(a)
+#shuffle function
+l=[23,-89,7,-67,22]
+a=random.shuffle(l)
+print(a)
