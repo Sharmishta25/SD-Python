@@ -1,0 +1,6 @@
+names=["Sharmishta","Sanket","Debashree"]
+a=names[1]
+length=len(names)
+print(a)
+print(f"Hi,{names[1]}")
+print(f"Hi,{names[length-1]}")
